@@ -23,3 +23,6 @@
 
 /** 4 contact icons per line **/
 .postprofile-contact { margin-top: -5px; width: 230px; }
+
+/** center post signature **/
+.postbody { margin-right: 0; }
